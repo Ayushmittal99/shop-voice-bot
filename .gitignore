@@ -1,0 +1,27 @@
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Frontend dependencies
+node_modules/
+web/node_modules/
+
+# Logs
+logs/
+*.log
+
+# Cache and generated files
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+# Vector database (regenerate using ingestion)
+chroma_db/

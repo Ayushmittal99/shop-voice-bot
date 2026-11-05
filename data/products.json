@@ -1,0 +1,976 @@
+[
+  {
+    "id": "P001",
+    "name": "Novaphone X5 5G",
+    "brand": "Nova",
+    "category": "Mobiles",
+    "price": 24999,
+    "mrp": 27999,
+    "rating": 4.4,
+    "reviews": 3120,
+    "stock": 25,
+    "description": "A smooth 5G smartphone with a bright 120Hz AMOLED screen and a long-lasting battery, ideal for everyday use and gaming.",
+    "specs": {
+      "RAM": "8GB",
+      "Storage": "128GB",
+      "Display": "6.6 inch AMOLED 120Hz",
+      "Battery": "5000mAh",
+      "Camera": "50MP"
+    },
+    "tags": [
+      "smartphone",
+      "5g",
+      "amoled",
+      "gaming"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P002",
+    "name": "Novaphone Lite 4G",
+    "brand": "Nova",
+    "category": "Mobiles",
+    "price": 8999,
+    "mrp": 10499,
+    "rating": 4.0,
+    "reviews": 5410,
+    "stock": 60,
+    "description": "An affordable 4G phone with a big battery for calls, video and social media.",
+    "specs": {
+      "RAM": "4GB",
+      "Storage": "64GB",
+      "Display": "6.5 inch HD+",
+      "Battery": "5000mAh",
+      "Camera": "13MP"
+    },
+    "tags": [
+      "budget phone",
+      "4g",
+      "long battery"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P003",
+    "name": "Zephyr Z9 Pro",
+    "brand": "Zephyr",
+    "category": "Mobiles",
+    "price": 54999,
+    "mrp": 59999,
+    "rating": 4.6,
+    "reviews": 1890,
+    "stock": 12,
+    "description": "A flagship phone with a top-tier processor, a 200MP camera and fast charging for power users and photographers.",
+    "specs": {
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Display": "6.7 inch LTPO 120Hz",
+      "Battery": "5500mAh",
+      "Camera": "200MP",
+      "Charging": "100W"
+    },
+    "tags": [
+      "flagship",
+      "camera phone",
+      "fast charging"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P004",
+    "name": "Zephyr Z3 5G",
+    "brand": "Zephyr",
+    "category": "Mobiles",
+    "price": 13499,
+    "mrp": 15999,
+    "rating": 4.2,
+    "reviews": 4020,
+    "stock": 40,
+    "description": "A value 5G phone with a clean software experience and a dependable battery.",
+    "specs": {
+      "RAM": "6GB",
+      "Storage": "128GB",
+      "Display": "6.6 inch FHD+ 90Hz",
+      "Battery": "5000mAh",
+      "Camera": "50MP"
+    },
+    "tags": [
+      "5g",
+      "mid range",
+      "value"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P005",
+    "name": "Lumio Snap 108",
+    "brand": "Lumio",
+    "category": "Mobiles",
+    "price": 29999,
+    "mrp": 32999,
+    "rating": 4.5,
+    "reviews": 2210,
+    "stock": 18,
+    "description": "A camera-focused phone with a 108MP sensor and optical stabilisation, great for photos and videos under 30000 rupees.",
+    "specs": {
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Display": "6.5 inch AMOLED",
+      "Battery": "4800mAh",
+      "Camera": "108MP OIS"
+    },
+    "tags": [
+      "camera phone",
+      "photography",
+      "oled"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P006",
+    "name": "Brightbook Air 14",
+    "brand": "Brightbook",
+    "category": "Laptops",
+    "price": 49990,
+    "mrp": 56990,
+    "rating": 4.4,
+    "reviews": 1540,
+    "stock": 15,
+    "description": "A thin and light 14 inch laptop with all-day battery life for work, study and travel.",
+    "specs": {
+      "RAM": "8GB",
+      "Storage": "512GB SSD",
+      "Display": "14 inch FHD",
+      "Weight": "1.3kg",
+      "Battery": "12 hours"
+    },
+    "tags": [
+      "ultrabook",
+      "lightweight",
+      "office"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P007",
+    "name": "Brightbook Pro 16",
+    "brand": "Brightbook",
+    "category": "Laptops",
+    "price": 89990,
+    "mrp": 99990,
+    "rating": 4.6,
+    "reviews": 870,
+    "stock": 6,
+    "description": "A powerful 16 inch laptop with dedicated graphics and a fast 165Hz display for creators and gamers.",
+    "specs": {
+      "RAM": "16GB",
+      "Storage": "1TB SSD",
+      "Display": "16 inch QHD 165Hz",
+      "Graphics": "Dedicated 6GB",
+      "Weight": "2.2kg"
+    },
+    "tags": [
+      "creator",
+      "gaming",
+      "high performance"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P008",
+    "name": "Codex Student 15",
+    "brand": "Codex",
+    "category": "Laptops",
+    "price": 32990,
+    "mrp": 38990,
+    "rating": 4.1,
+    "reviews": 2760,
+    "stock": 30,
+    "description": "A reliable 15.6 inch laptop for students and online classes at a friendly price.",
+    "specs": {
+      "RAM": "8GB",
+      "Storage": "256GB SSD",
+      "Display": "15.6 inch FHD",
+      "Weight": "1.8kg",
+      "Battery": "8 hours"
+    },
+    "tags": [
+      "student",
+      "budget laptop",
+      "online classes"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P009",
+    "name": "Codex Gamer X",
+    "brand": "Codex",
+    "category": "Laptops",
+    "price": 74990,
+    "mrp": 84990,
+    "rating": 4.5,
+    "reviews": 990,
+    "stock": 0,
+    "description": "A gaming laptop with a 144Hz screen, dedicated graphics and strong cooling for modern games.",
+    "specs": {
+      "RAM": "16GB",
+      "Storage": "512GB SSD",
+      "Display": "15.6 inch FHD 144Hz",
+      "Graphics": "Dedicated 6GB",
+      "Weight": "2.3kg"
+    },
+    "tags": [
+      "gaming laptop",
+      "144hz",
+      "rgb keyboard"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P010",
+    "name": "Zephyr Slate 2-in-1",
+    "brand": "Zephyr",
+    "category": "Laptops",
+    "price": 62990,
+    "mrp": 69990,
+    "rating": 4.3,
+    "reviews": 640,
+    "stock": 9,
+    "description": "A touchscreen 2-in-1 laptop with pen support, perfect for note taking, drawing and presentations.",
+    "specs": {
+      "RAM": "16GB",
+      "Storage": "512GB SSD",
+      "Display": "13.5 inch touch",
+      "Weight": "1.4kg",
+      "Extras": "Pen support"
+    },
+    "tags": [
+      "2-in-1",
+      "touchscreen",
+      "pen"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P011",
+    "name": "BassBuds Neo",
+    "brand": "Boomtone",
+    "category": "Audio",
+    "price": 2999,
+    "mrp": 4499,
+    "rating": 4.3,
+    "reviews": 8900,
+    "stock": 80,
+    "description": "True wireless earbuds with active noise cancellation, deep bass and a 30 hour battery case.",
+    "specs": {
+      "Type": "True wireless earbuds",
+      "ANC": "Yes",
+      "Battery": "30 hours with case",
+      "Water resistance": "IPX4"
+    },
+    "tags": [
+      "earbuds",
+      "noise cancelling",
+      "bluetooth",
+      "wireless"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P012",
+    "name": "BassBuds Lite",
+    "brand": "Boomtone",
+    "category": "Audio",
+    "price": 1299,
+    "mrp": 1999,
+    "rating": 4.0,
+    "reviews": 12400,
+    "stock": 150,
+    "description": "Budget true wireless earbuds with clear calls and punchy sound.",
+    "specs": {
+      "Type": "True wireless earbuds",
+      "ANC": "No",
+      "Battery": "20 hours with case",
+      "Water resistance": "IPX4"
+    },
+    "tags": [
+      "earbuds",
+      "budget",
+      "bluetooth",
+      "wireless"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P013",
+    "name": "StudioMax Over-Ear",
+    "brand": "Boomtone",
+    "category": "Audio",
+    "price": 7499,
+    "mrp": 9999,
+    "rating": 4.5,
+    "reviews": 2310,
+    "stock": 22,
+    "description": "Comfortable over-ear wireless headphones with strong noise cancellation and a 60 hour battery.",
+    "specs": {
+      "Type": "Over-ear wireless headphones",
+      "ANC": "Yes",
+      "Battery": "60 hours",
+      "Connectivity": "Bluetooth 5.3"
+    },
+    "tags": [
+      "headphones",
+      "noise cancelling",
+      "long battery",
+      "wireless"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P014",
+    "name": "PartyBlast 40W Speaker",
+    "brand": "Soundora",
+    "category": "Audio",
+    "price": 4499,
+    "mrp": 5999,
+    "rating": 4.2,
+    "reviews": 3300,
+    "stock": 35,
+    "description": "A loud portable Bluetooth speaker with party lights and splash-proof build.",
+    "specs": {
+      "Type": "Portable Bluetooth speaker",
+      "Power": "40W",
+      "Water resistance": "IPX7",
+      "Battery": "12 hours"
+    },
+    "tags": [
+      "speaker",
+      "party",
+      "waterproof",
+      "bluetooth"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P015",
+    "name": "Soundora Wired Earphones",
+    "brand": "Soundora",
+    "category": "Audio",
+    "price": 599,
+    "mrp": 899,
+    "rating": 3.9,
+    "reviews": 15600,
+    "stock": 300,
+    "description": "Simple wired earphones with a microphone and a tangle-free cable.",
+    "specs": {
+      "Type": "Wired earphones",
+      "Mic": "Yes",
+      "Cable": "1.2m"
+    },
+    "tags": [
+      "wired",
+      "earphones",
+      "cheap"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P016",
+    "name": "FitPulse Band 7",
+    "brand": "Fitora",
+    "category": "Wearables",
+    "price": 2499,
+    "mrp": 3499,
+    "rating": 4.1,
+    "reviews": 9100,
+    "stock": 90,
+    "description": "A slim fitness band with heart rate, sleep tracking and a 14 day battery.",
+    "specs": {
+      "Display": "1.47 inch AMOLED",
+      "Battery": "14 days",
+      "Water resistance": "5ATM",
+      "Sensors": "Heart rate, SpO2"
+    },
+    "tags": [
+      "fitness band",
+      "sleep tracking",
+      "long battery"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P017",
+    "name": "FitPulse Watch S",
+    "brand": "Fitora",
+    "category": "Wearables",
+    "price": 6999,
+    "mrp": 9999,
+    "rating": 4.3,
+    "reviews": 4300,
+    "stock": 45,
+    "description": "A smartwatch with AMOLED display, built-in GPS and Bluetooth calling.",
+    "specs": {
+      "Display": "1.78 inch AMOLED",
+      "GPS": "Built-in",
+      "Calling": "Bluetooth",
+      "Battery": "7 days"
+    },
+    "tags": [
+      "smartwatch",
+      "gps",
+      "calling"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P018",
+    "name": "Chronex Ultra",
+    "brand": "Chronex",
+    "category": "Wearables",
+    "price": 17999,
+    "mrp": 21999,
+    "rating": 4.6,
+    "reviews": 980,
+    "stock": 10,
+    "description": "A rugged adventure smartwatch with dual-band GPS, sapphire glass and 20 day battery.",
+    "specs": {
+      "GPS": "Dual-band",
+      "Glass": "Sapphire",
+      "Battery": "20 days",
+      "Water resistance": "10ATM"
+    },
+    "tags": [
+      "rugged",
+      "outdoor",
+      "premium",
+      "sports watch"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P019",
+    "name": "KidTrack Watch",
+    "brand": "Fitora",
+    "category": "Wearables",
+    "price": 3299,
+    "mrp": 4299,
+    "rating": 4.0,
+    "reviews": 1210,
+    "stock": 28,
+    "description": "A kids smartwatch with GPS location, SOS button and two-way calling for parents.",
+    "specs": {
+      "GPS": "Yes",
+      "SOS": "Yes",
+      "Calling": "Two-way",
+      "Battery": "3 days"
+    },
+    "tags": [
+      "kids",
+      "gps tracker",
+      "safety"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P020",
+    "name": "Fitora Smart Ring",
+    "brand": "Fitora",
+    "category": "Wearables",
+    "price": 9999,
+    "mrp": 12999,
+    "rating": 4.2,
+    "reviews": 520,
+    "stock": 14,
+    "description": "A lightweight smart ring that tracks sleep, heart rate and daily activity.",
+    "specs": {
+      "Battery": "6 days",
+      "Water resistance": "10ATM",
+      "Sensors": "Heart rate, temperature"
+    },
+    "tags": [
+      "smart ring",
+      "sleep",
+      "minimal"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P021",
+    "name": "AeroRun Pro Running Shoes",
+    "brand": "Striderra",
+    "category": "Footwear",
+    "price": 2799,
+    "mrp": 3999,
+    "rating": 4.4,
+    "reviews": 6700,
+    "stock": 70,
+    "description": "Lightweight men's running shoes with a breathable mesh upper and cushioned sole for daily runs.",
+    "specs": {
+      "For": "Men",
+      "Sizes": "UK 6-11",
+      "Upper": "Breathable mesh",
+      "Sole": "Cushioned EVA"
+    },
+    "tags": [
+      "running",
+      "sports shoes",
+      "men",
+      "lightweight"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P022",
+    "name": "AeroRun Trail Women",
+    "brand": "Striderra",
+    "category": "Footwear",
+    "price": 3499,
+    "mrp": 4999,
+    "rating": 4.3,
+    "reviews": 1900,
+    "stock": 26,
+    "description": "Women's trail running shoes with a grippy outsole for hills and wet paths.",
+    "specs": {
+      "For": "Women",
+      "Sizes": "UK 3-8",
+      "Upper": "Rip-stop mesh",
+      "Sole": "Grip rubber"
+    },
+    "tags": [
+      "trail",
+      "running",
+      "women",
+      "outdoor"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P023",
+    "name": "CloudWalk White Sneakers",
+    "brand": "Urbanstep",
+    "category": "Footwear",
+    "price": 1799,
+    "mrp": 2499,
+    "rating": 4.1,
+    "reviews": 5200,
+    "stock": 85,
+    "description": "Clean white casual sneakers that go with jeans, chinos and everything else.",
+    "specs": {
+      "For": "Unisex",
+      "Sizes": "UK 5-11",
+      "Upper": "Synthetic leather",
+      "Colour": "White"
+    },
+    "tags": [
+      "casual",
+      "sneakers",
+      "white",
+      "everyday"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P024",
+    "name": "Classic Leather Oxford",
+    "brand": "Urbanstep",
+    "category": "Footwear",
+    "price": 3299,
+    "mrp": 4599,
+    "rating": 4.2,
+    "reviews": 1480,
+    "stock": 19,
+    "description": "Black genuine leather formal shoes for office and weddings.",
+    "specs": {
+      "For": "Men",
+      "Sizes": "UK 6-11",
+      "Upper": "Genuine leather",
+      "Colour": "Black"
+    },
+    "tags": [
+      "formal",
+      "office",
+      "leather",
+      "men"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P025",
+    "name": "FlexFlop Slides",
+    "brand": "Urbanstep",
+    "category": "Footwear",
+    "price": 699,
+    "mrp": 999,
+    "rating": 4.0,
+    "reviews": 9800,
+    "stock": 200,
+    "description": "Soft cushioned slides for home, pool and short walks.",
+    "specs": {
+      "For": "Unisex",
+      "Sizes": "UK 5-11",
+      "Material": "EVA foam"
+    },
+    "tags": [
+      "slippers",
+      "slides",
+      "home",
+      "pool"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P026",
+    "name": "Everyday Cotton T-Shirt (Pack of 3)",
+    "brand": "Threadly",
+    "category": "Clothing",
+    "price": 899,
+    "mrp": 1499,
+    "rating": 4.1,
+    "reviews": 13200,
+    "stock": 120,
+    "description": "Pack of three soft round-neck 100 percent cotton t-shirts in assorted colours.",
+    "specs": {
+      "Fabric": "100% cotton",
+      "Fit": "Regular",
+      "Sizes": "S-XXL",
+      "Pack": "3"
+    },
+    "tags": [
+      "tshirt",
+      "cotton",
+      "basics",
+      "men"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P027",
+    "name": "Slim Fit Stretch Jeans",
+    "brand": "Threadly",
+    "category": "Clothing",
+    "price": 1599,
+    "mrp": 2499,
+    "rating": 4.2,
+    "reviews": 7600,
+    "stock": 55,
+    "description": "Dark blue slim fit jeans with comfortable stretch for all-day wear.",
+    "specs": {
+      "Fabric": "Cotton blend with stretch",
+      "Fit": "Slim",
+      "Waist": "28-38"
+    },
+    "tags": [
+      "jeans",
+      "denim",
+      "men"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P028",
+    "name": "Quilted Winter Jacket",
+    "brand": "Threadly",
+    "category": "Clothing",
+    "price": 3499,
+    "mrp": 5499,
+    "rating": 4.4,
+    "reviews": 2100,
+    "stock": 16,
+    "description": "Warm quilted jacket with a detachable hood for cold winter days.",
+    "specs": {
+      "Fabric": "Polyester shell",
+      "Fill": "Thermal fibre",
+      "Sizes": "M-XXL",
+      "Hood": "Detachable"
+    },
+    "tags": [
+      "winter",
+      "jacket",
+      "warm"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P029",
+    "name": "Women's Linen Kurta",
+    "brand": "Threadly",
+    "category": "Clothing",
+    "price": 1299,
+    "mrp": 1999,
+    "rating": 4.3,
+    "reviews": 3400,
+    "stock": 38,
+    "description": "A breathable linen kurta with a relaxed fit, great for summer and festive days.",
+    "specs": {
+      "Fabric": "Linen blend",
+      "Fit": "Relaxed",
+      "Sizes": "S-XL"
+    },
+    "tags": [
+      "kurta",
+      "women",
+      "ethnic",
+      "summer"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P030",
+    "name": "Dry-Fit Gym Shorts",
+    "brand": "Threadly",
+    "category": "Clothing",
+    "price": 549,
+    "mrp": 899,
+    "rating": 4.0,
+    "reviews": 6100,
+    "stock": 140,
+    "description": "Quick-dry gym shorts with a zip pocket and stretchy waistband.",
+    "specs": {
+      "Fabric": "Polyester",
+      "Fit": "Regular",
+      "Pockets": "Zip pocket"
+    },
+    "tags": [
+      "gym",
+      "shorts",
+      "sports",
+      "men"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P031",
+    "name": "AirCrisp 4L Air Fryer",
+    "brand": "Homeva",
+    "category": "Kitchen",
+    "price": 5499,
+    "mrp": 7999,
+    "rating": 4.4,
+    "reviews": 8800,
+    "stock": 42,
+    "description": "A 4 litre air fryer that cooks crispy snacks with little or no oil and has 8 preset menus.",
+    "specs": {
+      "Capacity": "4 litres",
+      "Power": "1500W",
+      "Presets": "8",
+      "Basket": "Non-stick, dishwasher safe"
+    },
+    "tags": [
+      "air fryer",
+      "healthy cooking",
+      "oil free"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P032",
+    "name": "BlendPro 750W Mixer Grinder",
+    "brand": "Homeva",
+    "category": "Kitchen",
+    "price": 3299,
+    "mrp": 4599,
+    "rating": 4.2,
+    "reviews": 11200,
+    "stock": 60,
+    "description": "A 750 watt mixer grinder with three stainless steel jars for chutneys, masalas and juices.",
+    "specs": {
+      "Power": "750W",
+      "Jars": "3 stainless steel",
+      "Speed": "3 speed + pulse"
+    },
+    "tags": [
+      "mixer grinder",
+      "indian cooking"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P033",
+    "name": "Non-Stick Cookware Set (3 pcs)",
+    "brand": "Homeva",
+    "category": "Kitchen",
+    "price": 2199,
+    "mrp": 3299,
+    "rating": 4.1,
+    "reviews": 4700,
+    "stock": 48,
+    "description": "Three-piece induction-friendly non-stick cookware set with a kadai, tawa and frying pan.",
+    "specs": {
+      "Pieces": "3",
+      "Induction": "Yes",
+      "Coating": "Non-stick"
+    },
+    "tags": [
+      "cookware",
+      "induction",
+      "kadai"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P034",
+    "name": "Electric Kettle 1.8L",
+    "brand": "Homeva",
+    "category": "Kitchen",
+    "price": 1099,
+    "mrp": 1699,
+    "rating": 4.2,
+    "reviews": 9600,
+    "stock": 75,
+    "description": "A 1.8 litre stainless steel electric kettle with auto shut-off.",
+    "specs": {
+      "Capacity": "1.8 litres",
+      "Power": "1500W",
+      "Body": "Stainless steel"
+    },
+    "tags": [
+      "kettle",
+      "tea",
+      "coffee"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P035",
+    "name": "Steel Lunchbox Set",
+    "brand": "Homeva",
+    "category": "Kitchen",
+    "price": 799,
+    "mrp": 1199,
+    "rating": 4.3,
+    "reviews": 5300,
+    "stock": 95,
+    "description": "A leak-proof stainless steel lunchbox with three containers and a carry bag.",
+    "specs": {
+      "Containers": "3",
+      "Material": "Stainless steel",
+      "Bag": "Insulated"
+    },
+    "tags": [
+      "lunch box",
+      "office",
+      "school"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P036",
+    "name": "CoolBreeze 1.5 Ton Inverter AC",
+    "brand": "Aerio",
+    "category": "Home Appliances",
+    "price": 36990,
+    "mrp": 47990,
+    "rating": 4.3,
+    "reviews": 2650,
+    "stock": 8,
+    "description": "A 1.5 ton 5 star inverter split AC that cools fast and saves electricity.",
+    "specs": {
+      "Capacity": "1.5 ton",
+      "Rating": "5 star inverter",
+      "Type": "Split",
+      "Warranty": "1 year product, 10 years compressor"
+    },
+    "tags": [
+      "ac",
+      "inverter",
+      "cooling",
+      "energy saving"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P037",
+    "name": "PureAir Room Purifier",
+    "brand": "Aerio",
+    "category": "Home Appliances",
+    "price": 8999,
+    "mrp": 12999,
+    "rating": 4.3,
+    "reviews": 1750,
+    "stock": 20,
+    "description": "A HEPA air purifier for rooms up to 400 sq ft that removes dust, smoke and pollen.",
+    "specs": {
+      "Coverage": "400 sq ft",
+      "Filter": "True HEPA",
+      "Noise": "Under 50 dB"
+    },
+    "tags": [
+      "air purifier",
+      "hepa",
+      "allergy",
+      "pollution"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P038",
+    "name": "SpinWash 7kg Front Load",
+    "brand": "Aerio",
+    "category": "Home Appliances",
+    "price": 28990,
+    "mrp": 36990,
+    "rating": 4.4,
+    "reviews": 1980,
+    "stock": 11,
+    "description": "A 7 kg fully automatic front load washing machine with 15 wash programs.",
+    "specs": {
+      "Capacity": "7 kg",
+      "Type": "Front load",
+      "Programs": "15",
+      "Rating": "5 star"
+    },
+    "tags": [
+      "washing machine",
+      "front load"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P039",
+    "name": "StaySafe Robot Vacuum",
+    "brand": "Aerio",
+    "category": "Home Appliances",
+    "price": 14999,
+    "mrp": 21999,
+    "rating": 4.0,
+    "reviews": 1320,
+    "stock": 17,
+    "description": "A robot vacuum and mop with app control and automatic return to the dock.",
+    "specs": {
+      "Suction": "3000Pa",
+      "Battery": "150 minutes",
+      "Control": "App and voice"
+    },
+    "tags": [
+      "robot vacuum",
+      "cleaning",
+      "smart home"
+    ],
+    "image": ""
+  },
+  {
+    "id": "P040",
+    "name": "TowerFan 40W",
+    "brand": "Aerio",
+    "category": "Home Appliances",
+    "price": 3499,
+    "mrp": 4799,
+    "rating": 4.1,
+    "reviews": 3900,
+    "stock": 52,
+    "description": "A quiet tower fan with remote control and three speed settings for bedrooms.",
+    "specs": {
+      "Power": "40W",
+      "Speeds": "3",
+      "Remote": "Yes",
+      "Noise": "Low"
+    },
+    "tags": [
+      "fan",
+      "tower fan",
+      "bedroom",
+      "summer"
+    ],
+    "image": ""
+  }
+]

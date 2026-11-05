@@ -1,0 +1,13 @@
+chromadb>=0.5
+sentence-transformers>=3.0
+pillow>=10.0
+groq>=1.0
+python-dotenv>=1.0
+sounddevice>=0.4
+numpy
+pyttsx3
+mcp<2
+fastapi
+uvicorn
+requests
+python-multipart
